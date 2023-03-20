@@ -66,6 +66,7 @@ button{
     
     padding: 60px 0;
     width: 15em;
+    touch-action: manipulation;
 }
 
 
